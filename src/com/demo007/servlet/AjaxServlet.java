@@ -24,6 +24,12 @@ public class AjaxServlet extends HttpServlet {
         System.out.println("str="+str);
         //另一个伙伴开发的代码
         System.out.println("str="+str);
+        /**
+         * evaluation_module分支更新
+         */
+        System.out.println("evaluation_module");
+        System.out.println("evaluation_module");
+
     }
 
     @Override
